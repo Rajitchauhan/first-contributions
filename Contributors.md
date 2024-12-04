@@ -1,4 +1,4 @@
-# Contributors
+o# Contributors
 
 - [Atharva](https://github.com/Atharva98)
 - [Maurizio Morgano](https://github.com/mmorgano)
@@ -262,7 +262,8 @@
 - [Shanky17](https://github.com/shanky17)
 - [Jay Paun](https://github.com/Jay2704)
 - [Cameron Johnson](https://github.com/will-fork-for-food)
-- [Ignacio Elìas Rosner](https://github.com/roznerx)
+- [Ig
+  nacio Elìas Rosner](https://github.com/roznerx)
 - [annieyii](https://github.com/annieyii/first-contributions)
 - [MTHS](https://github.com/MTHS)
 - [Aristide Legba](https://github.com/aristidelegba)
@@ -302,6 +303,7 @@
 - [Mykyta Kuznietsov](https://github.com/kuznimyk)
 - [Essi Akpevwe Praise](https://https://github.com/Akpevwe11)
 - [Jivi ~\_~](https://github.com/Jivi-this-side)
+
 - [Subro](https://www.linkedin.com/in/subrojyoti-paul)
 - [BrianC](https://github.com/BrianSChase
 - [Arthur Almeida] (https://github.com/ragnarthur)
@@ -1231,3 +1233,4 @@
 - [Marinos33](https://github.com/Marinos33)
 - [40tude](https://github.com/40tude)
 - [Hadi Purnomo](https://github.com/cephadi)
+- [Rajit Kumar chauhan](https://github.com/Rajitchauhan/)
